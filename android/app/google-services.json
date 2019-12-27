@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532003910909",
+    "firebase_url": "https://pow-app-71060.firebaseio.com",
+    "project_id": "pow-app-71060",
+    "storage_bucket": "pow-app-71060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532003910909:android:eb0f48b8301ac012c9ba94",
+        "android_client_info": {
+          "package_name": "com.unimaselite.pow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532003910909-4d2kpg76moh7ktc4p0226naos7sas6pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZeJfC7vfeCBBWsOWbPy-qPIlrAAW4LuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532003910909-4d2kpg76moh7ktc4p0226naos7sas6pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
