@@ -1,13 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:1-34:12
-MERGED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-19:12
-MERGED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-15:12
-MERGED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-15:12
+ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-19:12
+MERGED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\67682832f4f28b9a9fab7687dde408ef\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.0.aar\cc0c48057028d819e84e015fc32c98ae\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\db911a905d2117a72a699fd6c6a5e454\AndroidManifest.xml:17:1-22:12
@@ -56,27 +56,27 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ariessa\.gradle\cac
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-17.0.0.aar\e46a0623a206d1e2cc627c7a5aec99fb\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-17.0.0.aar\0fc74a5fea6cebf46f08c79ee1b78e5f\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\4d40551c6d8fd7dcafb43d086da85f82\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:1-34:12
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
 	package
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:2:5-30
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:2:5-30
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:1-34:12
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:1-34:12
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:9:5-66
-MERGED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:5-67
-MERGED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:5-67
+ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:9:5-66
+MERGED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:5-67
+MERGED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-21.3.0.aar\8233f8e75beb1940b5b45de9d9051c6c\AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-21.3.0.aar\8233f8e75beb1940b5b45de9d9051c6c\AndroidManifest.xml:14:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\34b32610086af4640e5ce61bf09e7877\AndroidManifest.xml:23:5-67
@@ -90,17 +90,17 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\76eaeb07c08210f7d3310acdde1f5895\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\76eaeb07c08210f7d3310acdde1f5895\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:9:22-64
 application
-ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:10:5-33:19
-MERGED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:5-17:19
-MERGED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:5-17:19
-MERGED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
+ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:10:5-33:19
+MERGED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\67682832f4f28b9a9fab7687dde408ef\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\67682832f4f28b9a9fab7687dde408ef\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.0.aar\cc0c48057028d819e84e015fc32c98ae\AndroidManifest.xml:7:5-20
@@ -146,53 +146,53 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ar
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\27be2ca17fa38d23afa2debe6a6280ec\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:12:9-28
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:12:9-28
 	android:icon
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:13:9-43
 	android:name
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:11:9-57
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:11:9-57
 activity#com.example.pow.MainActivity
-ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:14:9-32:20
+ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:14:9-32:20
 	android:launchMode
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:16:13-43
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:16:13-43
 	android:hardwareAccelerated
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:19:13-47
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:19:13-47
 	android:windowSoftInputMode
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:20:13-55
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:20:13-55
 	android:configChanges
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:18:13-144
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:18:13-144
 	android:theme
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:17:13-47
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:17:13-47
 	android:name
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:15:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:25:13-27:40
+ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:25:13-27:40
 	android:value
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:27:17-37
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:27:17-37
 	android:name
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:26:17-82
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:26:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:28:13-31:29
+ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:28:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:29:17-68
+ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:29:17-68
 	android:name
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:30:17-76
+ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-MERGED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\67682832f4f28b9a9fab7687dde408ef\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\67682832f4f28b9a9fab7687dde408ef\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-17.2.0.aar\cc0c48057028d819e84e015fc32c98ae\AndroidManifest.xml:5:5-44
@@ -289,18 +289,18 @@ MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Ari
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-17.0.0.aar\0fc74a5fea6cebf46f08c79ee1b78e5f\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\4d40551c6d8fd7dcafb43d086da85f82\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\4d40551c6d8fd7dcafb43d086da85f82\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ariessa\Desktop\pow\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ariessa\Pictures\PowApp\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-79
+ADDED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-79
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-21.3.0.aar\8233f8e75beb1940b5b45de9d9051c6c\AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-21.3.0.aar\8233f8e75beb1940b5b45de9d9051c6c\AndroidManifest.xml:13:5-79
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\34b32610086af4640e5ce61bf09e7877\AndroidManifest.xml:24:5-79
@@ -316,9 +316,9 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\4d40551c6d8fd7dcafb43d086da85f82\AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\grpc-android-1.21.0.aar\4d40551c6d8fd7dcafb43d086da85f82\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:22-76
+		ADDED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:5-68
+ADDED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:5-68
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\34b32610086af4640e5ce61bf09e7877\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-17.2.0.aar\34b32610086af4640e5ce61bf09e7877\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-17.2.0.aar\207bddad1c9e12c18262b6e7c20e5b29\AndroidManifest.xml:24:5-68
@@ -330,15 +330,15 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\76eaeb07c08210f7d3310acdde1f5895\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\76eaeb07c08210f7d3310acdde1f5895\AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:22-65
+		ADDED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:22-65
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:12:9-16:19
-MERGED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:12:9-16:19
+MERGED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\2848eb23a49039b5feecb209657726aa\AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\2848eb23a49039b5feecb209657726aa\AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\jetified-firebase-firestore-21.3.0.aar\8233f8e75beb1940b5b45de9d9051c6c\AndroidManifest.xml:17:9-23:19
@@ -356,31 +356,31 @@ MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Ariessa\.gradl
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-19.3.0.aar\6eac7519850b194c3a92715b5e57a4c0\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:12:18-89
+		ADDED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:12:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:13:13-15:85
+ADDED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:13:13-15:85
 	android:value
-		ADDED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:15:17-82
+		ADDED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:15:17-82
 	android:name
-		ADDED from [:firebase_analytics] C:\Users\Ariessa\Desktop\pow\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:14:17-127
+		ADDED from [:firebase_analytics] C:\Users\Ariessa\Pictures\PowApp\build\firebase_analytics\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:14:17-127
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] C:\Users\Ariessa\Desktop\pow\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:17-122
+		ADDED from [:firebase_auth] C:\Users\Ariessa\Pictures\PowApp\build\firebase_auth\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:17-122
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
-ADDED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] C:\Users\Ariessa\Desktop\pow\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:17-133
+		ADDED from [:cloud_firestore] C:\Users\Ariessa\Pictures\PowApp\build\cloud_firestore\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:17-133
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] C:\Users\Ariessa\Desktop\pow\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:17-123
+		ADDED from [:firebase_core] C:\Users\Ariessa\Pictures\PowApp\build\firebase_core\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:17-123
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Ariessa\.gradle\caches\transforms-1\files-1.1\firebase-auth-19.2.0.aar\2848eb23a49039b5feecb209657726aa\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents

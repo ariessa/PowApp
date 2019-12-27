@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\d4a286307a7edd12a62f7fb959246f17\\res\\values-v24\\values-v24.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\d4a286307a7edd12a62f7fb959246f17\\res\\values-v24\\values-v24.xml",

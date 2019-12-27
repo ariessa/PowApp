@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-ko\\values-ko.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-ko\\values-ko.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\values-ko\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ko\\values-ko.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ko\\values-ko.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\values-ko\\values.xml",

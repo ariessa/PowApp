@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\coordinatorlayout-1.0.0.aar\\08acc205fac6118d31e15621821f2e37\\res\\values\\values.xml",
@@ -61,25 +61,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ariessa\\Desktop\\pow\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
-                    },
-                    "to": {
-                        "startLines": "333",
-                        "startColumns": "4",
-                        "startOffsets": "20394",
-                        "endLines": "337",
-                        "endColumns": "12",
-                        "endOffsets": "20686"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-17.0.0.aar\\a619af308b5d29503bdbca3bd1a5f643\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -97,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\app\\generated\\res\\google-services\\release\\values\\values.xml",
+                    "source": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\app\\generated\\res\\google-services\\release\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -111,6 +92,25 @@
                         "startOffsets": "19485,19629,19737,19819,19923,20032,20152,20249",
                         "endColumns": "143,107,81,103,108,119,96,73",
                         "endOffsets": "19624,19732,19814,19918,20027,20147,20244,20318"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ariessa\\Pictures\\PowApp\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "333",
+                        "startColumns": "4",
+                        "startOffsets": "20394",
+                        "endLines": "337",
+                        "endColumns": "12",
+                        "endOffsets": "20686"
                     }
                 }
             ]

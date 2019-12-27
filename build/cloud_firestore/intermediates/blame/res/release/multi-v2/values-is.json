@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\cloud_firestore\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-is\\values-is.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\values-is\\values-is.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\27be2ca17fa38d23afa2debe6a6280ec\\res\\values-is\\values-is.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\values-is\\values-is.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\cloud_firestore\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-is\\values-is.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\27be2ca17fa38d23afa2debe6a6280ec\\res\\values-is\\values-is.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_analytics\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\firebase_analytics\\intermediates\\res\\merged\\release\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\coordinatorlayout-1.0.0-rc01.aar\\0cd45a65da7261a422d05397d1cbb649\\res\\values\\values.xml",
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_analytics\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\firebase_analytics\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\coordinatorlayout-1.0.0-rc01.aar\\0cd45a65da7261a422d05397d1cbb649\\res\\values\\values.xml",

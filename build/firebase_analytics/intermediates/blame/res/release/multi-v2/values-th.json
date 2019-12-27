@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_analytics\\intermediates\\res\\merged\\release\\values-th\\values-th.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\firebase_analytics\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-th\\values-th.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\79767be95ba9a8be648d56061e6d8500\\res\\values-th\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_analytics\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-th\\values-th.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\firebase_analytics\\intermediates\\res\\merged\\release\\values-th\\values-th.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.2.0.aar\\79767be95ba9a8be648d56061e6d8500\\res\\values-th\\values.xml",

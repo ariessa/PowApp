@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bs\\values-bs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.1.0.aar\\797c3e6481cf6ab94c1cd126ec069a00\\res\\values-bs\\values.xml",

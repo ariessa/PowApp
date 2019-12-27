@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\cloud_firestore\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-km\\values-km.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\values-km\\values-km.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-17.0.0.aar\\a619af308b5d29503bdbca3bd1a5f643\\res\\values-km\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\values-km\\values-km.xml",
+            "outputFile": "C:\\Users\\Ariessa\\Pictures\\PowApp\\build\\cloud_firestore\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-km\\values-km.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-17.0.0.aar\\a619af308b5d29503bdbca3bd1a5f643\\res\\values-km\\values.xml",
