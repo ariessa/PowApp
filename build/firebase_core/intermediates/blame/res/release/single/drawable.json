@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\96509617373e0ebb3ed84297166872ab\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\96509617373e0ebb3ed84297166872ab\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\96509617373e0ebb3ed84297166872ab\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\96509617373e0ebb3ed84297166872ab\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ariessa\\Desktop\\pow\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Ariessa\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\c57a491106f000a24125ab6529c8bd6e\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    }
+]

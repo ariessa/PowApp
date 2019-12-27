@@ -1,0 +1,2 @@
+# Referenced at C:\Users\Ariessa\Desktop\pow\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:24
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
