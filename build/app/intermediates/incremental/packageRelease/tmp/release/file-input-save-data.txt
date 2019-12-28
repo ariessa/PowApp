@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Dec 28 21:45:55 CST 2019
+#Sat Dec 28 22:04:28 CST 2019
 17.baseType=DIRECTORY
 4.path=lib/x86_64/libflutter.so
 25.base=C\:\\Users\\Ariessa\\Pictures\\PowApp\\build\\app\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
