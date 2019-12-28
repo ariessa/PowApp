@@ -45,6 +45,9 @@ android {
         versionName flutterVersionName
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
+        ndk {
+            abiFilters 'armeabi-v7a', 'x86', 'armeabi'
+        }
     }
 
     buildTypes {
@@ -56,10 +59,6 @@ android {
             useProguard true
 
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-
-            ndk {
-                abiFilters 'armeabi-v7a', 'x86', 'armeabi'
-            }
 
         }
     }
