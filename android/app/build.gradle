@@ -57,6 +57,10 @@ android {
 
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 
+            ndk {
+                abiFilters 'armeabi-v7a', 'x86', 'armeabi'
+            }
+
         }
     }
 }
