@@ -230,13 +230,13 @@
       "languageVersion": "2.3"
     },
     {
-      "name": "pow",
+      "name": "Pow",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     }
   ],
-  "generated": "2019-12-27T14:53:19.452105Z",
+  "generated": "2019-12-28T13:36:31.445951Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
