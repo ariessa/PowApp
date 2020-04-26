@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.unimaselite.pow"
+    package="com.ariessa.pow"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -130,7 +130,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.unimaselite.pow.firebaseinitprovider"
+            android:authorities="com.ariessa.pow.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
