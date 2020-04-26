@@ -1,4 +1,4 @@
-com.unimaselite.pow
+com.ariessa.pow
 attr alpha
 attr buttonSize
 attr circleCrop
