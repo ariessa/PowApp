@@ -54,9 +54,15 @@ Log in using the following credentials:
 + Password: password
 
 For detailed documentation, see the
-[user manual](https://github.com/ariessa/PowApp/blob/old/User_Manual_for_Pow.pdf)
+[user manual](https://github.com/ariessa/PowApp/blob/old/User_Manual_for_Pow.pdf).
 
 </br> 
+
+## User Journey
+
+You can view the user journey of Pow [here](https://youtu.be/3Ye6e4-EWHI).
+
+</br>
 
 ## Screens
 
