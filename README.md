@@ -32,7 +32,7 @@ The features of this app are as follows:
 
 ## Installing Pow
 
-Download this [apk](https://github.com/ariessa/PowApp/blob/master/build/app/outputs/apk/debug/app-debug.apk) into your Android device and install the app.
+Download this [apk](https://github.com/ariessa/PowApp/blob/old/build/app/outputs/apk/app.apk) into your Android device and install the app.
 
 </br> 
 
