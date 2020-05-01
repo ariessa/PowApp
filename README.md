@@ -2,6 +2,8 @@
 
 A Flutter app to manage customers, inventory and billings of a swimming centre, Samarahan Power Penguin Swimming Club. It can run on Android of version 5 and above. It uses Firebase Cloud Firestore as database.
 
+This project was started on 28/12/2019.
+
 </br> 
 
 ## Understanding Pow
@@ -34,14 +36,15 @@ The features of this app are as follows:
 
 > **_NOTE:_**  Refer to this [article](https://android.gadgethacks.com/how-to/android-basics-see-what-kind-processor-you-have-arm-arm64-x86-0168051/) to know your device's CPU architecture.
 
-Download the specific APK based on your device's CPU architecture and install it.
+Download the specific release APK based on your device's CPU architecture and install it.
 
 + [ARM](https://github.com/ariessa/PowApp/blob/old/android/app/release/app-armeabi-v7a-release.apk)
 + [ARM64](https://github.com/ariessa/PowApp/blob/old/android/app/release/app-arm64-v8a-release.apk)
 + [x86_64](https://github.com/ariessa/PowApp/blob/old/android/app/release/app-x86_64-release.apk)
 
-> **_WARNING:_** There is no apk for x86 Android. This is because Flutter does not currently support building for x86 Android. Refer to this [issue](https://github.com/flutter/flutter/issues/9253) on Github.
+> **_WARNING I:_** There is no apk for x86 Android. This is because Flutter does not currently support building for x86 Android. Refer to this [issue](https://github.com/flutter/flutter/issues/9253) on Github.
 
+> **_WARNING II:_** Release APKs cannot be installed on emulators.
 </br> 
 
 ## Using Pow
