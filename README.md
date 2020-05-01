@@ -1,8 +1,8 @@
 # Pow
 
-A Flutter app to manage customers, inventory and billings of a swimming centre, Samarahan Power Penguin Swimming Club. It can run on Android of version 5 and above. It uses Firebase Cloud Firestore as database.
+This project was started on **_28/12/2019_**.
 
-This project was started on 28/12/2019.
+Pow is a Flutter app to manage customers, inventory and billings of a swimming centre, Samarahan Power Penguin Swimming Club. It can run on Android of version 5 and above. It uses Firebase Cloud Firestore as database.
 
 </br> 
 
