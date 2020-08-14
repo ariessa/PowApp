@@ -61,12 +61,6 @@ For detailed documentation, see the
 
 </br> 
 
-## User Journey
-
-You can view the user journey of Pow [here](https://youtu.be/3Ye6e4-EWHI).
-
-</br>
-
 ## Screens
 
 ### Log In
